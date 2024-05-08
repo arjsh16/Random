@@ -9,13 +9,13 @@ To use the random number generator, you can import the `MyRandom` class and crea
 from random import *
 
 # Create a random number generator object
-rng = MyRandom()
+rd = MyRandom()
 
 # Generate a random integer
-random_number = rng.random()
+random_number = rd.random()
 
 # Generate a random number within a range
-random_range_number = rng.random_range(1, 10)
+random_range_number = rd.random_range(1, 10)
 ```
 
 ## Contributing
