@@ -7,7 +7,7 @@ This Python script provides a simple random number generator along with a class 
 To use the random number generator, you can import the `MyRandom` class and create an instance of it. You can then use its methods to generate random numbers.
 
 ```python
-from random import MyRandom
+from random import *
 
 # Create a random number generator object
 rng = MyRandom()
