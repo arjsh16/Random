@@ -17,3 +17,9 @@ random_number = rng.random()
 
 # Generate a random number within a range
 random_range_number = rng.random_range(1, 10)
+```
+##Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+##License
+This project is licensed under the MIT License. See the LICENSE file for details.
